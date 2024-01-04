@@ -1,0 +1,11 @@
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\TodoListVtect.exe
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\TodoListVtect.dll
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\TodoListVtect.deps.json
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\TodoListVtect.runtimeconfig.json
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\TodoListVtect.pdb
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\TodoListVtect\TodoListVtect\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
